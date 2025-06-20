@@ -207,7 +207,14 @@ Pytorch_tutorial/
 CAD_Retrival/
 Generate_CAD/CADsketch.zip
 Generate_CAD/Decoder/data
-Generate_CAD
+# Generate_CAD
 CADParser
 # Generate_CAD/Encoder/data
 # Generate_CAD/Encoder/encoder
+Generate_CAD/Encoder/encoder/dataset
+Generate_CAD/CADsketch.zip
+Generate_CAD/Encoder/data
+Generate_CAD/Decoder/data
+CADParser
+CADsketch.zip
+Generate_CAD/Decoder/DeepCAD
