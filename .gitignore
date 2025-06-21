@@ -204,7 +204,7 @@ __marimo__/
 .idea/
 Pytorch_tutorial/
 .vscode/
-CAD_Retrival/
+# CAD_Retrival/
 Generate_CAD/CADsketch.zip
 Generate_CAD/Decoder/data
 # Generate_CAD
@@ -218,3 +218,14 @@ Generate_CAD/Decoder/data
 CADParser
 CADsketch.zip
 Generate_CAD/Decoder/DeepCAD
+CAD_Retrival/model
+CAD_Retrival/a1.0.0_00.7z
+CAD_Retrival/output.png
+CAD_Retrival/Upload_Dataset.ipynb
+/CAD_Retrival/smapling_img_to_PC/Images
+/CAD_Retrival/smapling_img_to_PC/Image_output
+/CAD_Retrival/smapling_img_to_PC/point_cloud
+/CAD_Retrival/smapling_img_to_PC/Pdf
+/CAD_Retrival/smapling_img_to_PC/Processed_Images
+/CAD_Retrival/smapling_img_to_PC/0point_cloud(obj).zip
+/CAD_Retrival/smapling_img_to_PC/Tested_Scripts
